@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9cm;
+}
+header,footer{
+    padding: 10%;
+    color: cornsilk;
+    background-color: black;
+
+}
+section{
+    margin: 5px;
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+article{
+    margin: 5px;
+    padding: 10px;
+    background-color: cornsilk;
+}
+nav ul{
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
